@@ -1,1 +1,0 @@
-# wazure-auto-bounty
